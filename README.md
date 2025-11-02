@@ -81,7 +81,7 @@ O programa usa:
 - `malloc()` para alocar strings de missões
 - `free()` para liberar toda a memória ao final
 
-## 📝 Notas
+## Notas
 
 - Todos os ataques são validados (não é possível atacar territórios aliados)
 - As missões são escolhidas aleatoriamente e são únicas para cada jogo
